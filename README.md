@@ -13,6 +13,6 @@
 
 
 
-### Documentation is located at: [documentation.yaml](https://github.com/DeleniorI/itbootcamp_final_postman_project/blob/00be7fd67bf7417b42c65c9998a018972f448f48/documentation.yaml)
+### Documentation is located at: [Postman Documentation](https://documenter.getpostman.com/view/23501824/2s83zpKgiC)
 
 ### Library used: [Chai Assertion Library](https://www.chaijs.com/)
